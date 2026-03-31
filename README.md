@@ -74,7 +74,7 @@ food_ordering_app/
 ### How to Run the Project
 1.  **Clone the repository**
 ```bash
-   git clone https://github.com/aliciawijaya98/food_order_apps_mysql.git
+   git clone https://github.com/JeffersonPI/food_order_apps_sqlite.git
    cd food_order_apps_mysql
 ```
 
